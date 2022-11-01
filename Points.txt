@@ -1,0 +1,36 @@
+Videos from 6 should be revised
+
+8BE:-  Installing POSTMAN
+       Using of API
+
+       Post request has two things:- i>headers; ii>Body
+       YE do primary chizo k sath aap log post request mr sakte ho
+      
+       Express is better to use instead of using \home , \about , \services
+
+9BE:-  Express is under development
+       Making app using Express & Nodemon
+
+       Express-Express is the back-end component of popular development stacks
+       like the MEAN, MERN or MEVN stack, together with the MongoDB database 
+       software and a JavaScript front-end framework or library.
+     
+       Nodemon- Nodemon is a Node.js command-line tool that functions as a 
+       wrapper to the simple node command-line tool, but watches for changes 
+       in your application files. When Nodemon detects file changes, it 
+       automatically RESTARTS the node server to update the application.
+
+       Using GET request in POSTMAN to check status of link created
+       Using Post request in POSTMAN to check status of link created
+
+10BE:-Statics Files- the files which are kept as public on our sites
+      without login he acess or download th file
+
+11BE:- static error was not solved 
+
+13BE:- This is a Building  a Dance-Website
+       Problems- i> not installed pug in console
+                 ii> code wrong
+                 iii> skipped video
+       Problem Solved by installing in sequence(i.init, ii.express, iii.pug, iv.nodemon server start);
+       (till 11:30)
